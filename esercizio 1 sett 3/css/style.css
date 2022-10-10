@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    background-color: azure;
+    color: blue;
+}
+h3{
+    text-align: center;
+    background-color: azure;
+    color: blue;
+}
+/*document.write {
+    text-align: center;
+   
+    color: blue;
+}*/
+
+p {
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 2rem;
+    color: beige;
+    text-transform: uppercase;
+}
